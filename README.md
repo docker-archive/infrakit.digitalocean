@@ -1,3 +1,6 @@
+# DEPRECATED: It is now fully integrated with [`infrakit`](https://github.com/docker/infrakit)
+
+
 InfraKit.DigitalOcean
 =====================
 
